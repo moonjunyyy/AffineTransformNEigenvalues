@@ -54,6 +54,7 @@ int main(int argc, char* argv[])
 	}
 
 	WriteBmp((char*)"sunConvert.BMP", imgConv, w, h);
+	delete[] imgFlower, imgConv;
 
 	// 1st
 	cout << endl << "1ST" << endl << endl;
