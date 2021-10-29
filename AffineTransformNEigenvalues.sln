@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AffineTransformNEigenvalues", "AffineTransformNEigenvalues\AffineTransformNEigenvalues.vcxproj", "{AC84ED72-E31D-4576-8F63-EDF6A8DFA7A9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RasterizationProject", "RasterizationProject\RasterizationProject.vcxproj", "{EFC6283A-2AB7-4CE9-BD95-0574F48277B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{AC84ED72-E31D-4576-8F63-EDF6A8DFA7A9}.Release|x64.Build.0 = Release|x64
 		{AC84ED72-E31D-4576-8F63-EDF6A8DFA7A9}.Release|x86.ActiveCfg = Release|Win32
 		{AC84ED72-E31D-4576-8F63-EDF6A8DFA7A9}.Release|x86.Build.0 = Release|Win32
+		{EFC6283A-2AB7-4CE9-BD95-0574F48277B3}.Debug|x64.ActiveCfg = Debug|x64
+		{EFC6283A-2AB7-4CE9-BD95-0574F48277B3}.Debug|x64.Build.0 = Debug|x64
+		{EFC6283A-2AB7-4CE9-BD95-0574F48277B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFC6283A-2AB7-4CE9-BD95-0574F48277B3}.Debug|x86.Build.0 = Debug|Win32
+		{EFC6283A-2AB7-4CE9-BD95-0574F48277B3}.Release|x64.ActiveCfg = Release|x64
+		{EFC6283A-2AB7-4CE9-BD95-0574F48277B3}.Release|x64.Build.0 = Release|x64
+		{EFC6283A-2AB7-4CE9-BD95-0574F48277B3}.Release|x86.ActiveCfg = Release|Win32
+		{EFC6283A-2AB7-4CE9-BD95-0574F48277B3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
